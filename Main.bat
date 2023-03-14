@@ -7,7 +7,6 @@ echo -------- Checking ADB Contact... --------
 cd C:\
 cd C:\platform-tools
 adb devices
-cd C:\
 echo -----------------------------------------
 echo     Press any key to start uninstall.
 echo -----------------------------------------
